@@ -153,7 +153,7 @@ Tambien usaremos en JSON Web Token usaremos la version 4.2.4 - [JWT](https://jwt
 
 Aca podras ver el video del proyecto ya implementado y usando SWAGGER en youtube https://youtu.be/xhehHaIGujU
 
-![ProyectoContacto](https://i.pinimg.com/originals/21/3c/98/213c986ae6e989f3eb89e58f392a0190.gif)
+![ProyectoContacto](https://i.pinimg.com/originals/ae/28/10/ae28100e69a5549f4a99b3ede1a36d47.gif)
 
 
 
